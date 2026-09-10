@@ -3,7 +3,7 @@
 ## Semaine 01
 
 - [Trame](Semaine01)
-- [Slide](Semaine01/Slide.md)
+- [Slides](Slides/semaine01.md)
 
 ## Semaine 02
 
